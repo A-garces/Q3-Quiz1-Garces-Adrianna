@@ -1,0 +1,19 @@
+body {
+    background-image: url('chikawa.png');
+    color: 	#efa5c9;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    padding: 2%;
+    border-radius: 5%;
+    margin-top: 5%;
+    background-color: 	#fffff7da;
+}
+
+h5 {
+    background-color: #efa5c9;
+    color: black;
+}
+]
